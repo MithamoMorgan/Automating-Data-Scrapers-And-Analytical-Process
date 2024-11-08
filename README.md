@@ -7,3 +7,4 @@ This project aims to scrape Flash Sales products from Jumia website and automate
 * **Language:** Python
 * **Orchestration Tool:** Apache Airflow
 * **Libraries:** Pandas, Numpy, Beautiful Soup
+* **Orchestration Tool:** Apache Airflow
