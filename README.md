@@ -126,4 +126,6 @@ with DAG(
 
 scrape_task >> clean_task
 ```
+
+* The Airflow Dag currently has 2 tasks that is the cleaning task and the scraping tasks. The Code is scheduled to run daily hence getting upto date data from Jumia website.
   
